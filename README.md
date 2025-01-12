@@ -1,4 +1,3 @@
-
 # LangChain Mastery
 
 This repository contains resources and materials for mastering LangChain, a powerful framework for developing applications powered by language models. Whether you're building chatbots, document analyzers, or AI-powered tools, this course will guide you through building real-world applications with LangChain.
@@ -19,13 +18,15 @@ This repository contains resources and materials for mastering LangChain, a powe
 - LangChain Official Documentation: <https://python.langchain.com/docs/introduction/>
 - LangChain Documentation Chat: <https://chat.langchain.com/>
 
-## 🤝 Community
-
-Join our vibrant community to connect with other learners and get support:
+## 🤝 Community & Opportunities
 
 ### Discussion Platforms
 - Discord Community: <https://discord.com/invite/SVcnbSjpXX>
 - Slack Community: <https://www.langchain.com/join-community>
+
+### 💼 Job Board
+**LangJobs.dev - AI Engineering Opportunities**
+Find specialized positions in LangChain, LangGraph, RAG systems, and agent development at <https://www.langjobs.dev>. Perfect for applying the skills you're learning in our courses!
 
 ## 🚀 Getting Started
 
