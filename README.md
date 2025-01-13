@@ -68,6 +68,8 @@ An AI-powered assistant that helps you:
 - Answer questions about codebases
 - Generate code explanations
 
+- https://www.udemy.com/course/langchain/learn/lecture/46160669/?instructorPreviewMode=student_v4#overview
+
 ## 📝 Note
 
 This repository serves as a central hub for all resources related to the LangChain mastery course. For the most up-to-date information, please refer to the official course platform and documentation.
